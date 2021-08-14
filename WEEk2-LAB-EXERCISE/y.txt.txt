@@ -1,0 +1,25 @@
+123: number
+main : identifier
+(
+)
+{ 
+int : keyword 
+a : identifier
+! 
+5: number
+; 
+char : keyword 
+b : identifier
+!
+"
+hello : identifier
+"
+;comment did not close
+ identifier 1 - ��۶�
+ identifier 2 - main
+ identifier 3 - �
+ identifier 4 - a
+ identifier 5 - �osU�
+ identifier 6 - b
+ identifier 7 - �
+ identifier 8 - hello
